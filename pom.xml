@@ -1,15 +1,15 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.bpi.paris</groupId>
 	<artifactId>MyGit</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 
 	<scm>
 		<connection>scm:git:git@github.com:tawazlwb/MyGit.git</connection>
 		<url>scm:git:git@github.com:tawazlwb/MyGit.git</url>
 		<developerConnection>scm:git:git@github.com:tawazlwb/MyGit.git</developerConnection>
-	</scm>
+	  <tag>MyGit-0.0.1</tag>
+  </scm>
 
 	<build>
 		<plugins>
