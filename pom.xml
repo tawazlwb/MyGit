@@ -8,7 +8,6 @@
 		<connection>scm:git:git@github.com:tawazlwb/MyGit.git</connection>
 		<url>scm:git:git@github.com:tawazlwb/MyGit.git</url>
 		<developerConnection>scm:git:git@github.com:tawazlwb/MyGit.git</developerConnection>
-	  <tag>MyGit-0.0.1</tag>
   </scm>
 
 	<build>
