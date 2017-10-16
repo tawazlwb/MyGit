@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.bpi.paris</groupId>
 	<artifactId>MyGit</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 
 	<!-- <scm>
 		<connection>scm:git:git@github.com:tawazlwb/MyGit.git</connection>
@@ -14,7 +14,6 @@
 		<connection>scm:git:https://github.com/tawazlwb/MyGit.git</connection>
 		<url>scm:git:https://github.com/tawazlwb/MyGit.git</url>
 		<developerConnection>scm:git:https://github.com/tawazlwb/MyGit.git</developerConnection>
-    <tag>MyGit-0.0.1</tag>
   </scm>
 
 	<build>
